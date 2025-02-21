@@ -1,0 +1,25 @@
+/node_modules/
+/.env
+
+# Archivos de logs
+*.log
+npm-debug.log*
+
+# Caché de npm
+.npm/
+
+# Directorios de compilación y producción
+/dist/
+/build/
+
+# Dependencias de Vercel y Render
+.vercel/
+.render/
+
+# Archivos de configuración del editor (VSCode, JetBrains, etc.)
+.vscode/
+.idea/
+
+# Otros archivos innecesarios
+.DS_Store  # MacOS
+Thumbs.db  # Windows
